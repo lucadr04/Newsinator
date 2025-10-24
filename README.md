@@ -1,6 +1,6 @@
-# AI News Summarizer
+# News Summarizer
 
-Desktop GUI app that fetches and summarizes news using AI.
+Desktop GUI app that fetches and summarizes news.
 
 ## Features
 
