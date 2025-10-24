@@ -1,14 +1,15 @@
 # AI News Summarizer
 
-Desktop app that fetches and summarizes news using AI. Built with PySide6 and Google Gemini.
+Desktop GUI app that fetches and summarizes news using AI.
 
 ## Features
 
-- Fetch news from multiple sources
-- AI summaries with Google Gemini  
+- Fetch news from multiple sources using [NewsAPI](https://newsapi.org)
+- AI summaries with [Google Gemini](aistudio.google.com)
+- Filter by location and categories
 - Select articles to analyze
 - Export as Markdown or PDF
-- Filter by location and categories
+- Graphical interface made with [PySide6](pypi.org/project/PySide6/)
 
 ## Setup
 
